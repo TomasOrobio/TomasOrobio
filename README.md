@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TomasOrobio
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Aplications
 - 🌱 I’m currently learning React, Node.JS, MongoDB
 - 📫 How to reach me:  orobiotomas@gmail.com
